@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:local="clr-namespace:XamarinApp"
+             x:Class="XamarinApp.MainPage"
+             BackgroundImage="background1.jpg"
+             >
+    <ContentPage.Content>
+        <StackLayout VerticalOptions="Center">
+        <Frame BackgroundColor="Aqua" CornerRadius="10">
+            <StackLayout>
+                <Entry x:Name="txtUserName" Placeholder="UserName"/>
+                <Entry x:Name="txtPassword" Placeholder="Password" IsPassword="True"/>
+                <Button x:Name="btnSubmit" Text="Submit" Clicked="btnSubmit_Clicked"/>
+            </StackLayout>
+        </Frame>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

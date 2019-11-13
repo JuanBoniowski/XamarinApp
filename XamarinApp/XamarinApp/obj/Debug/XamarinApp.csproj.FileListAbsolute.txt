@@ -1,0 +1,16 @@
+c:\users\jboni\source\repos\XamarinApp\XamarinApp\XamarinApp\bin\Debug\XamarinApp.dll
+c:\users\jboni\source\repos\XamarinApp\XamarinApp\XamarinApp\bin\Debug\XamarinApp.pdb
+c:\users\jboni\source\repos\XamarinApp\XamarinApp\XamarinApp\bin\Debug\Xamarin.Forms.Core.dll
+c:\users\jboni\source\repos\XamarinApp\XamarinApp\XamarinApp\bin\Debug\Xamarin.Forms.Platform.dll
+c:\users\jboni\source\repos\XamarinApp\XamarinApp\XamarinApp\bin\Debug\Xamarin.Forms.Xaml.dll
+c:\users\jboni\source\repos\XamarinApp\XamarinApp\XamarinApp\bin\Debug\Xamarin.Forms.Core.pdb
+c:\users\jboni\source\repos\XamarinApp\XamarinApp\XamarinApp\bin\Debug\Xamarin.Forms.Core.xml
+c:\users\jboni\source\repos\XamarinApp\XamarinApp\XamarinApp\bin\Debug\Xamarin.Forms.Platform.pdb
+c:\users\jboni\source\repos\XamarinApp\XamarinApp\XamarinApp\bin\Debug\Xamarin.Forms.Xaml.pdb
+c:\users\jboni\source\repos\XamarinApp\XamarinApp\XamarinApp\bin\Debug\Xamarin.Forms.Xaml.xml
+c:\users\jboni\source\repos\XamarinApp\XamarinApp\XamarinApp\obj\Debug\XamarinApp.csprojResolveAssemblyReference.cache
+c:\users\jboni\source\repos\XamarinApp\XamarinApp\XamarinApp\obj\Debug\XamarinApp.csproj.CoreCompileInputs.cache
+c:\users\jboni\source\repos\XamarinApp\XamarinApp\XamarinApp\obj\Debug\XamarinApp.MainPage.xaml.g.cs
+c:\users\jboni\source\repos\XamarinApp\XamarinApp\XamarinApp\obj\Debug\XamarinApp.App.xaml.g.cs
+c:\users\jboni\source\repos\XamarinApp\XamarinApp\XamarinApp\obj\Debug\XamarinApp.dll
+c:\users\jboni\source\repos\XamarinApp\XamarinApp\XamarinApp\obj\Debug\XamarinApp.pdb
