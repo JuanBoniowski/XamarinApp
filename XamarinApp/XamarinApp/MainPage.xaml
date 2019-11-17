@@ -12,7 +12,10 @@
                 <Entry x:Name="txtUserName" Placeholder="UserName"/>
                 <Entry x:Name="txtPassword" Placeholder="Password" IsPassword="True"/>
                 <Button x:Name="btnSubmit" Text="Submit" Clicked="btnSubmit_Clicked"/>
-            </StackLayout>
+                    <Button x:Name="btnAddUser" Text="Add User" Clicked="btnAddUser_Clicked"/>
+                    <Button x:Name="btnDeleteuser" Text="Delete User" Clicked="btnDeleteuser_Clicked"/>
+                    <Label x:Name="lblValidation"/>
+                </StackLayout>
         </Frame>
         </StackLayout>
     </ContentPage.Content>
